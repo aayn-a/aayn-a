@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thunderistrash
+- 👋 Hi, I’m @aayn-a
 - 👀 I’m interested in ...
 -  Python
 -  Java
