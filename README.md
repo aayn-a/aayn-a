@@ -21,11 +21,9 @@
 - **Flask** 🏗
 - **Machine Learning & Deep Learning** in TensorFlow/Scikit-Learn 🤖
 
-## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayn-a&show_icons=true&theme=radical" alt="GitHub Stats">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayn-a&layout=compact&theme=radical" alt="Top Languages">
-</p>
+
 
 
 ## 💡 Interests:
