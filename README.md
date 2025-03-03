@@ -30,6 +30,7 @@
 - **Machine Learning & AI** 🤖
 - **Web Development** 🌐
 - **Puzzles** 🧩
+- **Data Science** 📊
 
 
 
