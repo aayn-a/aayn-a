@@ -1,6 +1,6 @@
-Hi there! I'm Aayan
+Hi there! I'm Aayan!
 
-## I’m passionate about coding, learning new technologies, and building impactful projects.
+I’m passionate about coding, learning new technologies, and building impactful projects.
 
 ## 🛠️ Languages I’m Comfortable With:
 	•	Python 🐍
