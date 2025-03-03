@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @aayn-a
-- 👀 I’m interested in ...
--  Python
--  Java
--  HTML
-- 🌱 I’m currently learning ...
-- HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there! I'm Aayan
+
+## I’m passionate about coding, learning new technologies, and building impactful projects.
+
+## 🛠️ Languages I’m Comfortable With:
+	•	Python 🐍
+	•	Java ☕
+
+## 🚀 Currently Learning:
+	•	HTML & CSS 🎨
+	•	Flask 🏗️
+
+## 💡 Interests:
+	•	Machine Learning & AI 🤖
+	•	Web Development 🌐
+	•	Tech for Social Good 💙
