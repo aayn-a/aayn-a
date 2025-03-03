@@ -8,7 +8,8 @@ I’m passionate about coding, learning new technologies, and building impactful
 
 ## 🚀 Currently Learning:
 	•	HTML & CSS 🎨
-	•	Flask 🏗️
+	•	Flask 🏗
+	•	ML/DL in Tensorflow/Scikit
 
 ## 💡 Interests:
 	•	Machine Learning & AI 🤖
