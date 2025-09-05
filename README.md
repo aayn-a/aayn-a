@@ -12,13 +12,16 @@
 
 ---
 
+Hi! I am an Applied Mathematics major with a love for data analytics! I'm skilled with most Python Data Analysis libraries (Pandas, Matplotlib, Seaborn, NumPy, etc). 
+
 ## 🛠️ Languages I’m Comfortable With:
 - **Python** 🐍
 - **Java** ☕
 
 ## 🚀 Currently Learning:
-- **HTML & CSS** 🎨
-- **Flask** 🏗
+- **Deep Learning**
+- **SQL**
+  
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayn-a&layout=compact&theme=radical" alt="Top Languages">
