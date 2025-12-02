@@ -24,9 +24,6 @@ Hi! I am an Applied Mathematics major with a love for data analytics! I'm skille
   
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayn-a&layout=compact&theme=radical" alt="Top Languages">
-
-
 
 ## 💡 Interests:
 - **Machine Learning & AI** 🤖
