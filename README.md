@@ -29,7 +29,3 @@ I'm a first-year Applied Math + Data Science student at UC Berkeley, currently b
 [LinkedIn](https://www.linkedin.com/in/aayanagarwal) · [Email](mailto:aayan.agar@berkeley.edu)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayn-a&show_icons=true&theme=default" alt="GitHub Stats">
-</p>
