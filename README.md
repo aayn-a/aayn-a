@@ -26,7 +26,7 @@ I'm a first-year Applied Math + Data Science student at UC Berkeley, currently b
 - Time-series modeling for infrastructure applications
 
 ### 📫 Connect
-[LinkedIn](#) · [Email](mailto:aayan.agar@berkeley.edu)
+[LinkedIn](https://www.linkedin.com/in/aayanagarwal) · [Email](mailto:aayan.agar@berkeley.edu)
 
 ---
 
